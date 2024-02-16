@@ -10,9 +10,9 @@ test taken using [speedtest-go](https://github.com/showwin/speedtest-go) / [ints
 
 ## bangkok kirz(TRUE) 1gbits/1gbits international dedicated uplink
 ```python3 intspeed.py test -t 1 && python3 intspeed.py draw```
-![bangkok 1 threaded connection](speedtest-hetzner-rack-32thread.png)
+![bangkok 1 threaded connection](speedtest-bkk-1thread.png)
 ```python3 intspeed.py test -t 32 && python3 intspeed.py draw```
-![bangkok 32 threaded connection](speedtest-hetzner-rack-32thread.png)
+![bangkok 32 threaded connection](speedtest-bkk-32thread.png)
 
 ## tracert
 
