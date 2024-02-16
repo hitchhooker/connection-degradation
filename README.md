@@ -1,4 +1,4 @@
-Single stream vs. 32 streams
+hetzner rack 1gbits/1gbits helsinki uplink - Single stream vs. 32 streams
 ![1 threaded connection](speedtest-hetzner-rack-1thread.png)
 ![32 threaded connection](speedtest-hetzner-rack-32thread.png)
 
